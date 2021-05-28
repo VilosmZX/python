@@ -17,6 +17,6 @@ class main:
         else:
             print("Login gagal")
 
-a = main("joshua", "1234")
-main.login()
+a = main("username", "password")
+a.login()
 
