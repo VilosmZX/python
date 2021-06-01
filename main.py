@@ -16,3 +16,7 @@ class main:
       print("url 404 not found")
     else :
       return
+
+  def hello_world():
+    print("Hello World")
+    
