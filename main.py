@@ -20,3 +20,8 @@ class main:
   def hello_world():
     print("Hello World")
     
+    # Babi kalian
+    # Repo ini sudah di hack
+    #,Mampus kau
+    # FUCK MT DICK
+    
